@@ -54,7 +54,7 @@ This repository contains the implementation of a system for detecting **gender**
 
 ## Reference
 
-This work is based on the research paper:  
+This work is based on my research paper:  
 [**One Source to Detect Them All: Gender, Age, and Emotion Detection from Voice**](https://ieeexplore.ieee.org/document/9529731).
 
 ---
