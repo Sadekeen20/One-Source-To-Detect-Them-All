@@ -1,0 +1,1 @@
+This folder contains the model training and the smote operation and justification of the processing
