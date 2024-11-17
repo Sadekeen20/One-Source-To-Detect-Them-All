@@ -1,4 +1,4 @@
-# Speech-Based Gender, Age, and Emotion Detection
+# Gender, Age, and Emotion Detection from Audio
 
 This repository contains the implementation of a system for detecting **gender**, **age**, and **emotion** from speech audio files. The project is designed to use a single approach to address all three tasks by extracting statistical features from the audio frequency spectrum and applying machine learning techniques. The system has potential applications in telecommunications, customer analytics, and human-computer interaction.
 
